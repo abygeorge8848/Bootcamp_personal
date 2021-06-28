@@ -1,0 +1,26 @@
+		
+  html{
+  background : black;
+  }
+  
+  
+  h1{
+  text-decoration : underline 2px dotted;
+  }
+  
+  
+  body{
+  border-radius: 15px;
+  background : white;
+  color : black;
+  border : 2px solid black;
+  margin : 450pt;
+  margin-top : 90pt;
+  margin-bottom : 80pt;
+  padding : 25pt;
+  }
+  
+  
+  label.foo:hover{
+  background-color: #999;
+  }
